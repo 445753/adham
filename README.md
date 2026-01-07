@@ -37,25 +37,23 @@ I'm **Adham Othman**, a passionate **Python Developer** focused on building clea
 
 ### 🧩 Languages
 - **Python**
-- JavaScript
-- HTML & CSS
+- flutter
 
 ### ⚙️ Backend & Frameworks
-- Flask
 - FastAPI
-- Django (basic–intermediate)
+
 
 ### 🗄️ Databases
-- PostgreSQL
+
 - SQLite
 - Supabase
 
 ### 🔧 Tools & Platforms
 - Git & GitHub
-- Linux
+  
 - REST APIs
 - Automation Scripts
-- Web Scraping
+  
 
 ---
 
